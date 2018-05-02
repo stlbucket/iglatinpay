@@ -1,0 +1,18 @@
+{
+  "name": "eggsay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src/**/spec.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chai": "^4.1.2",
+    "fbkt-clog": "^1.0.5",
+    "mocha": "^5.1.1",
+  }
+}
